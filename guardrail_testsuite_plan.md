@@ -186,5 +186,3 @@ Multi-turn and jailbreak wrappers overlaid across categories.
 | `generated_grok_<batch_name>.jsonl.report.json` | Per-batch diversity and validation report |
 | `generated_grok_<batch_name>.jsonl.invalid.txt` | Validation failures for review (present only if errors occurred) |
 | `generated_grok_<batch_name>.csv` | CSV export for spreadsheet-based human review |
-
-Human review is required for 100% of S0 and S1 rows before any batch is used in evaluation.
