@@ -1,0 +1,93 @@
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-173af4f1-558a-9bc5-a90a-a302782a97c1', 'request_id': '173af4f1-558a-9bc5-a90a-a302782a97c1'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-548bd8c0-4951-9099-9e53-65780ae36866', 'request_id': '548bd8c0-4951-9099-9e53-65780ae36866'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-9459b2a0-b21e-9850-86ed-1b5e2b419555', 'request_id': '9459b2a0-b21e-9850-86ed-1b5e2b419555'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-64fba4f1-1a8b-9dd7-b3d6-b6931a2d0198', 'request_id': '64fba4f1-1a8b-9dd7-b3d6-b6931a2d0198'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-33eb3605-582c-9d42-bd3b-158308b3417c', 'request_id': '33eb3605-582c-9d42-bd3b-158308b3417c'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-83b51407-90a6-906f-aa5f-b06f98508680', 'request_id': '83b51407-90a6-906f-aa5f-b06f98508680'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-8e72a1dc-c42a-9318-89ce-19c5c3881e16', 'request_id': '8e72a1dc-c42a-9318-89ce-19c5c3881e16'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-c0a1f37d-51e8-9885-96f5-afcc1cdaf44d', 'request_id': 'c0a1f37d-51e8-9885-96f5-afcc1cdaf44d'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-8f4cf3c9-f0f4-9bbf-be88-cf853bcbe190', 'request_id': '8f4cf3c9-f0f4-9bbf-be88-cf853bcbe190'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-defcc634-843c-9689-8ab3-62c1b9173770', 'request_id': 'defcc634-843c-9689-8ab3-62c1b9173770'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-6ea4df81-104e-9c02-b343-8c71fcb2e508', 'request_id': '6ea4df81-104e-9c02-b343-8c71fcb2e508'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-fc792fc9-12aa-9263-9945-e296751a192a', 'request_id': 'fc792fc9-12aa-9263-9945-e296751a192a'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-d7077b26-6f8d-9778-beff-aab01a35dbaa', 'request_id': 'd7077b26-6f8d-9778-beff-aab01a35dbaa'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-46526f4f-a0c2-942c-8014-6abfb255d121', 'request_id': '46526f4f-a0c2-942c-8014-6abfb255d121'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-fa6e8a36-32be-95a5-bb4a-0618f9e3deb6', 'request_id': 'fa6e8a36-32be-95a5-bb4a-0618f9e3deb6'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-daefbfa1-9721-9f34-aaae-f30731e922d0', 'request_id': 'daefbfa1-9721-9f34-aaae-f30731e922d0'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-4020d814-cd8e-9a11-bd35-b8a3f0d9ce23', 'request_id': '4020d814-cd8e-9a11-bd35-b8a3f0d9ce23'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-3a12fc3e-4436-92f0-a13b-1cb67d4124da', 'request_id': '3a12fc3e-4436-92f0-a13b-1cb67d4124da'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-0c68fa95-aaea-9bb7-8c06-db41416e3e2b', 'request_id': '0c68fa95-aaea-9bb7-8c06-db41416e3e2b'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-5db2fd61-a8e0-9ff5-a151-9d2828b740e9', 'request_id': '5db2fd61-a8e0-9ff5-a151-9d2828b740e9'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-ec1003e6-792d-95f4-8015-554d404ab4d9', 'request_id': 'ec1003e6-792d-95f4-8015-554d404ab4d9'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-ff142a0d-bae6-9de7-990f-e9383425277e', 'request_id': 'ff142a0d-bae6-9de7-990f-e9383425277e'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-25d9277b-1056-9eb0-b367-de21a8e376cd', 'request_id': '25d9277b-1056-9eb0-b367-de21a8e376cd'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-dcc80794-7cda-998c-b13f-c0740669a266', 'request_id': 'dcc80794-7cda-998c-b13f-c0740669a266'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-9835be66-c194-9b22-88b5-15a47daf7308', 'request_id': '9835be66-c194-9b22-88b5-15a47daf7308'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-c8f8aeca-03b1-954a-90cd-30dc577a65d4', 'request_id': 'c8f8aeca-03b1-954a-90cd-30dc577a65d4'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-e82056f4-9eac-98ca-99f2-09a4ecc13a0b', 'request_id': 'e82056f4-9eac-98ca-99f2-09a4ecc13a0b'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-97319a73-4d3d-94d1-9143-31db01f98d0f', 'request_id': '97319a73-4d3d-94d1-9143-31db01f98d0f'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-68e89b60-6ff5-97f4-83ca-96c297b5b7ad', 'request_id': '68e89b60-6ff5-97f4-83ca-96c297b5b7ad'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-b82dd726-5c5a-95b3-9a8c-6cf3a8cf8c7c', 'request_id': 'b82dd726-5c5a-95b3-9a8c-6cf3a8cf8c7c'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-f7659766-de75-9bee-b0c6-35096918a041', 'request_id': 'f7659766-de75-9bee-b0c6-35096918a041'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-230bccd1-1bf8-95a7-836d-fc4e94613878', 'request_id': '230bccd1-1bf8-95a7-836d-fc4e94613878'}
+
+Job failed: APIError: Output data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-11a65b8f-ca11-95e1-a941-98e20aae7cbd', 'request_id': '11a65b8f-ca11-95e1-a941-98e20aae7cbd'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-642befba-6683-9f66-9c8d-a4f7e4d9d02f', 'request_id': '642befba-6683-9f66-9c8d-a4f7e4d9d02f'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-4247b590-cb54-9cfd-ba32-61975c979110', 'request_id': '4247b590-cb54-9cfd-ba32-61975c979110'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-c61303ed-a233-9e67-ab99-25c423469794', 'request_id': 'c61303ed-a233-9e67-ab99-25c423469794'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-93ef6076-dc67-9f97-861a-68fb77adcfc7', 'request_id': '93ef6076-dc67-9f97-861a-68fb77adcfc7'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-8391ead7-f04b-99c0-881b-c3e84b545845', 'request_id': '8391ead7-f04b-99c0-881b-c3e84b545845'}
+
+Job failed: APIError: Output data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-a6d575a7-edf0-990c-b491-9ce344e745c2', 'request_id': 'a6d575a7-edf0-990c-b491-9ce344e745c2'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-1c9b0db0-99b1-9395-a1e0-d2defa6302cd', 'request_id': '1c9b0db0-99b1-9395-a1e0-d2defa6302cd'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-130b79f8-917a-9a6e-8f59-953808a05150', 'request_id': '130b79f8-917a-9a6e-8f59-953808a05150'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-f4aac9a7-0167-9efc-aea6-648fcbadc823', 'request_id': 'f4aac9a7-0167-9efc-aea6-648fcbadc823'}
+
+Job failed: BadRequestError: Error code: 400 - {'error': {'message': 'Input data may contain inappropriate content. For details, see: https://www.alibabacloud.com/help/en/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-0f5279fd-0f51-9645-a332-a7295d30143f', 'request_id': '0f5279fd-0f51-9645-a332-a7295d30143f'}
+
+Missing expected ids: [21, 22, 35, 36, 38, 49, 50, 52, 64, 66, 77, 78, 80, 91, 92, 94, 102, 105, 106, 108, 120, 128, 130, 131, 132, 134, 139, 141, 143, 145, 152, 153, 158, 161, 162, 166, 169, 170, 174, 177, 183, 186, 188, 191, 193]
+
+Pass-rate target missed: got 39.35%, expected 45-50% (configured target 48.00%).

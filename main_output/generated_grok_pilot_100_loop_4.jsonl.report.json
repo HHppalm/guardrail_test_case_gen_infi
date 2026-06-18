@@ -1,0 +1,430 @@
+{
+  "total_rows": 1500,
+  "category_flag_counts": {
+    "C0:block": 75,
+    "C1:pass": 146,
+    "C1:block": 168,
+    "C2:pass": 121,
+    "C2:block": 124,
+    "C3:pass": 90,
+    "C3:block": 84,
+    "C4:pass": 52,
+    "C4:block": 53,
+    "C5:pass": 60,
+    "C5:block": 167,
+    "C6:pass": 67,
+    "C6:block": 76,
+    "C7:pass": 110,
+    "C8:block": 46,
+    "C9:pass": 30,
+    "C9:block": 31
+  },
+  "length_buckets": {
+    "short": 327,
+    "medium": 1172,
+    "long": 1
+  },
+  "fund_or_ticker_count": 1167,
+  "portfolio_action_count": 498,
+  "no_fund_ticker_count": 333,
+  "kt_reference_count": 50,
+  "ask_type_counts": {
+    "market_impact_macro": 673,
+    "fund_holding_exposure": 309,
+    "sector_asset_class": 255,
+    "pure_investment_concept": 119,
+    "personal_planning": 98,
+    "factual_lookup": 74,
+    "private_info_scandal_guilt": 87,
+    "opinion_prediction_side_taking": 134,
+    "legal_court_boundary": 155,
+    "oos_routing": 40,
+    "embedded_sensitive_ask": 22
+  },
+  "top_terms": {
+    "royal": [
+      [
+        "ม.112",
+        30
+      ],
+      [
+        "พระมหากษัตริย์",
+        16
+      ],
+      [
+        "สำนักงานทรัพย์สินพระมหากษัตริย์",
+        16
+      ],
+      [
+        "พระราชวัง",
+        14
+      ],
+      [
+        "ร.10",
+        13
+      ],
+      [
+        "สำนักพระราชวัง",
+        6
+      ],
+      [
+        "ราชวงศ์",
+        2
+      ],
+      [
+        "ร.9",
+        1
+      ],
+      [
+        "ในหลวง",
+        1
+      ]
+    ],
+    "political": [
+      [
+        "รัฐบาล",
+        163
+      ],
+      [
+        "จีน",
+        72
+      ],
+      [
+        "ทรัมป์",
+        25
+      ],
+      [
+        "สหรัฐ",
+        25
+      ],
+      [
+        "สีจิ้นผิง",
+        23
+      ],
+      [
+        "Xi",
+        12
+      ],
+      [
+        "อนุทิน",
+        9
+      ],
+      [
+        "ผู้ว่าฯ BOT",
+        8
+      ],
+      [
+        "Trump",
+        6
+      ],
+      [
+        "นายกรัฐมนตรี",
+        4
+      ],
+      [
+        "พรรคเพื่อไทย",
+        2
+      ]
+    ],
+    "market": [
+      [
+        "DCA",
+        50
+      ],
+      [
+        "ชิป",
+        45
+      ],
+      [
+        "AOT",
+        29
+      ],
+      [
+        "PTT",
+        29
+      ],
+      [
+        "SCB",
+        26
+      ],
+      [
+        "CPALL",
+        19
+      ],
+      [
+        "KBANK",
+        19
+      ],
+      [
+        "KBank",
+        19
+      ],
+      [
+        "RMF",
+        14
+      ],
+      [
+        "BDMS",
+        12
+      ],
+      [
+        "GULF",
+        12
+      ],
+      [
+        "NVIDIA",
+        10
+      ],
+      [
+        "Nvidia",
+        10
+      ],
+      [
+        "SSF",
+        10
+      ],
+      [
+        "data center",
+        9
+      ],
+      [
+        "BH",
+        8
+      ],
+      [
+        "aging society",
+        8
+      ],
+      [
+        "หุ้น defense",
+        7
+      ],
+      [
+        "BBL",
+        6
+      ],
+      [
+        "หนี้บัตรเครดิต",
+        5
+      ]
+    ],
+    "mutual_fund": [],
+    "legal": [
+      [
+        "SET",
+        71
+      ],
+      [
+        "ศาล",
+        42
+      ],
+      [
+        "คดี",
+        35
+      ],
+      [
+        "IEEPA",
+        19
+      ],
+      [
+        "CBAM",
+        16
+      ],
+      [
+        "RMF",
+        14
+      ],
+      [
+        "SEC",
+        14
+      ],
+      [
+        "SSF",
+        10
+      ],
+      [
+        "ก.ล.ต.",
+        8
+      ],
+      [
+        "AMLO",
+        3
+      ],
+      [
+        "KYC",
+        2
+      ],
+      [
+        "กฎหมาย",
+        2
+      ],
+      [
+        "ศาลสูงสุด",
+        2
+      ],
+      [
+        "FATCA",
+        1
+      ],
+      [
+        "ThaiESG",
+        1
+      ],
+      [
+        "รัฐธรรมนูญ",
+        1
+      ],
+      [
+        "ศาลรัฐธรรมนูญ",
+        1
+      ]
+    ],
+    "people": [
+      [
+        "ปูติน",
+        26
+      ],
+      [
+        "CEO",
+        25
+      ],
+      [
+        "ทรัมป์",
+        25
+      ],
+      [
+        "สีจิ้นผิง",
+        23
+      ],
+      [
+        "CFO",
+        15
+      ],
+      [
+        "Lisa",
+        14
+      ],
+      [
+        "Messi",
+        13
+      ],
+      [
+        "Xi",
+        12
+      ],
+      [
+        "Ronaldo",
+        11
+      ],
+      [
+        "อนุทิน",
+        9
+      ],
+      [
+        "Taylor Swift",
+        8
+      ],
+      [
+        "Jensen Huang",
+        6
+      ],
+      [
+        "Trump",
+        6
+      ],
+      [
+        "founder",
+        6
+      ],
+      [
+        "นายกรัฐมนตรี",
+        4
+      ],
+      [
+        "fund manager",
+        3
+      ],
+      [
+        "ผู้จัดการกองทุน",
+        2
+      ],
+      [
+        "Sam Altman",
+        1
+      ],
+      [
+        "นักวิเคราะห์",
+        1
+      ]
+    ]
+  },
+  "tracked_fund_house_counts": {
+    "SCBAM": 0,
+    "SCB": 19,
+    "KTWC": 0,
+    "KT-ENERGY": 0
+  },
+  "geography_counts": {
+    "us": 70,
+    "china": 101,
+    "japan": 26,
+    "korea_taiwan": 66,
+    "india": 48,
+    "asean_vietnam": 29,
+    "europe": 39,
+    "middle_east": 37,
+    "russia_ukraine": 75,
+    "latin_america": 24
+  },
+  "asset_theme_counts": {
+    "ai_tech": 129,
+    "gold_precious": 67,
+    "energy": 76,
+    "china_asia": 96,
+    "healthcare": 61,
+    "consumer": 62,
+    "bonds_income": 15,
+    "property_infra": 176,
+    "climate_agri": 46,
+    "crypto_blockchain": 35,
+    "thai_equity": 90,
+    "esg_tax": 111
+  },
+  "warnings": [
+    "fund/ticker-shaped rows are 1167/1500; mix in more no-ticker asks."
+  ],
+  "repeated_stems": [
+    {
+      "stem": "BOTกับรัฐบาลเรื่องดอกเบี้ยขัดกันบาทกับหุ้น",
+      "count": 2
+    },
+    {
+      "stem": "ที่ปรึกษาบอกว่ารัฐบาลกดดันผู้ว่าฯBOTให้ลดด",
+      "count": 2
+    },
+    {
+      "stem": "ที่ปรึกษาบอกว่ารัฐบาลหน่วงงบกระตุ้นเพื่อเอ",
+      "count": 2
+    },
+    {
+      "stem": "ประยุทธ์กับเศรษฐาใครทำให้ท่องเที่ยวฟื้นเร็",
+      "count": 2
+    },
+    {
+      "stem": "พอร์ตเพิ่งร่วงถ้าNetflixกับDisneyแย่งตลาดแ",
+      "count": 2
+    },
+    {
+      "stem": "เพื่อนบอกBOTกับรัฐบาลขัดกันเรื่องดอกเบี้ยก",
+      "count": 2
+    },
+    {
+      "stem": "เห็นโพสต์เรื่องทะเลจีนใต้กับสิทธิประมงอาเซ",
+      "count": 2
+    },
+    {
+      "stem": "ได้ยินเพื่อนบอกBOTกับรัฐบาลขัดกันเรื่องดอก",
+      "count": 2
+    }
+  ]
+}

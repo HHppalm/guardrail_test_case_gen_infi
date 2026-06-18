@@ -1,0 +1,298 @@
+{
+  "total_rows": 100,
+  "category_flag_counts": {
+    "C0:block": 5,
+    "C1:pass": 11,
+    "C1:block": 12,
+    "C2:pass": 5,
+    "C2:block": 5,
+    "C3:pass": 5,
+    "C3:block": 5,
+    "C4:pass": 4,
+    "C4:block": 4,
+    "C5:pass": 4,
+    "C5:block": 12,
+    "C6:pass": 5,
+    "C6:block": 6,
+    "C7:pass": 9,
+    "C8:block": 4,
+    "C9:pass": 2,
+    "C9:block": 2
+  },
+  "length_buckets": {
+    "short": 23,
+    "medium": 77,
+    "long": 0
+  },
+  "fund_or_ticker_count": 88,
+  "portfolio_action_count": 23,
+  "no_fund_ticker_count": 12,
+  "kt_reference_count": 5,
+  "ask_type_counts": {
+    "market_impact_macro": 50,
+    "fund_holding_exposure": 17,
+    "sector_asset_class": 13,
+    "pure_investment_concept": 7,
+    "personal_planning": 6,
+    "factual_lookup": 5,
+    "private_info_scandal_guilt": 7,
+    "opinion_prediction_side_taking": 7,
+    "legal_court_boundary": 14,
+    "oos_routing": 3,
+    "embedded_sensitive_ask": 1
+  },
+  "top_terms": {
+    "royal": [
+      [
+        "พระมหากษัตริย์",
+        2
+      ],
+      [
+        "ม.112",
+        2
+      ],
+      [
+        "สำนักงานทรัพย์สินพระมหากษัตริย์",
+        2
+      ],
+      [
+        "พระราชวัง",
+        1
+      ],
+      [
+        "สำนักพระราชวัง",
+        1
+      ]
+    ],
+    "political": [
+      [
+        "รัฐบาล",
+        11
+      ],
+      [
+        "จีน",
+        2
+      ],
+      [
+        "ทรัมป์",
+        2
+      ],
+      [
+        "สหรัฐ",
+        2
+      ],
+      [
+        "สีจิ้นผิง",
+        2
+      ],
+      [
+        "Xi",
+        1
+      ]
+    ],
+    "market": [
+      [
+        "BDMS",
+        6
+      ],
+      [
+        "DCA",
+        4
+      ],
+      [
+        "AOT",
+        3
+      ],
+      [
+        "CPALL",
+        3
+      ],
+      [
+        "ชิป",
+        3
+      ],
+      [
+        "KBANK",
+        2
+      ],
+      [
+        "KBank",
+        2
+      ],
+      [
+        "PTT",
+        2
+      ],
+      [
+        "SCB",
+        2
+      ],
+      [
+        "BH",
+        1
+      ],
+      [
+        "GULF",
+        1
+      ],
+      [
+        "NVIDIA",
+        1
+      ],
+      [
+        "Nvidia",
+        1
+      ],
+      [
+        "RMF",
+        1
+      ],
+      [
+        "SSF",
+        1
+      ],
+      [
+        "aging society",
+        1
+      ],
+      [
+        "data center",
+        1
+      ],
+      [
+        "โปะหนี้",
+        1
+      ]
+    ],
+    "mutual_fund": [],
+    "legal": [
+      [
+        "SET",
+        7
+      ],
+      [
+        "คดี",
+        5
+      ],
+      [
+        "ศาล",
+        3
+      ],
+      [
+        "CBAM",
+        2
+      ],
+      [
+        "FATCA",
+        1
+      ],
+      [
+        "IEEPA",
+        1
+      ],
+      [
+        "KYC",
+        1
+      ],
+      [
+        "RMF",
+        1
+      ],
+      [
+        "SSF",
+        1
+      ],
+      [
+        "ก.ล.ต.",
+        1
+      ]
+    ],
+    "people": [
+      [
+        "CEO",
+        2
+      ],
+      [
+        "Taylor Swift",
+        2
+      ],
+      [
+        "ทรัมป์",
+        2
+      ],
+      [
+        "สีจิ้นผิง",
+        2
+      ],
+      [
+        "CFO",
+        1
+      ],
+      [
+        "Lisa",
+        1
+      ],
+      [
+        "Messi",
+        1
+      ],
+      [
+        "Ronaldo",
+        1
+      ],
+      [
+        "Xi",
+        1
+      ],
+      [
+        "founder",
+        1
+      ],
+      [
+        "นักวิเคราะห์",
+        1
+      ],
+      [
+        "ปูติน",
+        1
+      ]
+    ]
+  },
+  "tracked_fund_house_counts": {
+    "SCBAM": 0,
+    "SCB": 1,
+    "KTWC": 0,
+    "KT-ENERGY": 0
+  },
+  "geography_counts": {
+    "us": 7,
+    "china": 5,
+    "japan": 4,
+    "korea_taiwan": 5,
+    "india": 3,
+    "asean_vietnam": 1,
+    "europe": 2,
+    "middle_east": 3,
+    "russia_ukraine": 5,
+    "latin_america": 0
+  },
+  "asset_theme_counts": {
+    "ai_tech": 6,
+    "gold_precious": 3,
+    "energy": 2,
+    "china_asia": 3,
+    "healthcare": 9,
+    "consumer": 5,
+    "bonds_income": 1,
+    "property_infra": 15,
+    "climate_agri": 4,
+    "crypto_blockchain": 3,
+    "thai_equity": 10,
+    "esg_tax": 10
+  },
+  "warnings": [
+    "fund/ticker-shaped rows are 88/100; mix in more no-ticker asks.",
+    "KT references are 5/100; target about 2-3%, not dominance."
+  ],
+  "repeated_stems": []
+}

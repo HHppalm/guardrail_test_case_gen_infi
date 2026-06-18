@@ -1,0 +1,149 @@
+{
+  "total_rows": 20,
+  "category_flag_counts": {
+    "C1:pass": 1,
+    "C1:block": 3,
+    "C2:pass": 2,
+    "C2:block": 1,
+    "C3:pass": 2,
+    "C3:block": 1,
+    "C4:pass": 1,
+    "C4:block": 1,
+    "C5:pass": 1,
+    "C5:block": 3,
+    "C6:pass": 1,
+    "C8:block": 1,
+    "C9:pass": 1,
+    "C9:block": 1
+  },
+  "length_buckets": {
+    "short": 0,
+    "medium": 20,
+    "long": 0
+  },
+  "top_terms": {
+    "royal": [],
+    "political": [
+      [
+        "จีน",
+        4
+      ],
+      [
+        "ทรัมป์",
+        4
+      ],
+      [
+        "รัฐบาล",
+        4
+      ],
+      [
+        "Xi",
+        1
+      ],
+      [
+        "สีจิ้นผิง",
+        1
+      ]
+    ],
+    "market": [
+      [
+        "SCB",
+        9
+      ],
+      [
+        "SCBAM",
+        8
+      ],
+      [
+        "NVIDIA",
+        5
+      ],
+      [
+        "Nvidia",
+        5
+      ],
+      [
+        "ชิป",
+        3
+      ],
+      [
+        "RMF",
+        2
+      ],
+      [
+        "AOT",
+        1
+      ],
+      [
+        "BBL",
+        1
+      ]
+    ],
+    "mutual_fund": [],
+    "legal": [
+      [
+        "CBAM",
+        8
+      ],
+      [
+        "RMF",
+        2
+      ],
+      [
+        "SET",
+        2
+      ],
+      [
+        "ศาล",
+        2
+      ],
+      [
+        "IEEPA",
+        1
+      ],
+      [
+        "กฎหมาย",
+        1
+      ]
+    ],
+    "people": [
+      [
+        "ทรัมป์",
+        4
+      ],
+      [
+        "ปูติน",
+        4
+      ],
+      [
+        "CFO",
+        1
+      ],
+      [
+        "Jensen Huang",
+        1
+      ],
+      [
+        "Messi",
+        1
+      ],
+      [
+        "Ronaldo",
+        1
+      ],
+      [
+        "Taylor Swift",
+        1
+      ],
+      [
+        "Xi",
+        1
+      ],
+      [
+        "สีจิ้นผิง",
+        1
+      ]
+    ]
+  },
+  "repeated_stems": []
+}

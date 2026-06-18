@@ -1,0 +1,67 @@
+Here's a rundown of KTAM's KT-branded funds (KTAM = Krung Thai Asset Management, Krungthai's fund arm). I've grouped them and noted the underlying/master fund where it's known. Quick legend on the suffixes first, since they matter for your test cases:
+Class suffixes: -A = สะสมมูลค่า (accumulation, no dividend) · -D = จ่ายปันผล (dividend) · -R = รับซื้อคืนอัตโนมัติ (auto-redemption) · -P = a pricing/channel class · H = FX-hedged · UI = ห้ามขายผู้ลงทุนรายย่อย (not for retail) · RMF / SSF / ThaiESG = tax-deductible wrappers of the same strategy.
+
+Global / thematic equity (the headline FIF funds)
+
+KT-WTAI(-A) — KTAM World Technology Artificial Intelligence Equity Fund; feeds Allianz Global Artificial Intelligence. The flagship AI fund. KtamBlockdit
+KT-TECHNOLOGY-A — KTAM World Technology Fund; broad global tech. Ktam
+KT-BRAIN(-A) — Krung Thai AI Brain; AI/innovation theme (also as KT-BRAIN RMF). Ktam
+KT-WEQ — KTAM World Equity; global equity core (KT-WEQ RMF exists). Ktam
+KT-WQUALITY-A — World Quality Factor Equity Passive; quality-factor passive. Ktam
+KT-EPIC-A — KTAM E.P.I.C. Global Equity Opportunities Fund. Ktam
+KT-PRECIOUS — feeds Franklin Gold and Precious Metals Fund; gold-miner/precious equities. Blockdit
+KT-FINANCE — global financials, feeding a Fidelity financial-services fund. Blockdit
+KT-PROPERTY(-A/-D/-P) — KTAM World Property Fund; global property/REIT equities. Ktam
+KT-CLIMATE-A — Global Climate Change theme (also KT-CLIMATE RMF).
+KT-AGRI / KT-AGRIANDFOOD — Sustainable Agriculture and Food. Ktam
+KT-CARE-A — global healthcare.
+KT-BLOCKCHAIN-A — Blockchain Economy. Ktam
+KT-BTCETFFOF-UI-A — Bitcoin ETF Fund of Funds, not for retail investors. Ktam
+
+China / Asia
+
+KT-CHINA(-A) — KTAM China Equity Fund; feeds BlackRock BGF China Fund (offshore/H-share tilt). KtamBlockdit
+KT-Ashares(-A) — KTAM China A Shares Equity Fund; feeds Allianz China A-Shares (onshore A-share). KtamBlockdit
+KT-CHINABOND-A — China bond fund. Siamchart
+KT-AASIA-A — All Asia Pacific Equity. Ktam
+KT-ASEAN-A / KT-ASIAG-A / KT-EMEQ-A — ASEAN equity, Asia growth, and Emerging Markets equity respectively. Siamchart
+KT-VIETNAM — Vietnam Equity (also KT-VIETNAM RMF).
+KT-CLMVT(-A/-D) — CLMVT region (Cambodia, Laos, Myanmar, Vietnam, Thailand). Siamchart
+
+US / Europe
+
+KT-US(-A) — KTAM US Growth Equity, feeding an AllianceBernstein fund (also KT-US RMF). Blockdit
+KT-EURO — European small-cap, feeding Invesco Continental European Small Cap. Blockdit
+KT-EUROTECH-A — European technology equity. Siamchart
+
+Sector / commodity
+
+KT-ENERGY — global energy fund (the one your CIO docs reference for the oil/war cases). Siamchart
+KT-GOLD — KTAM Gold (bullion-linked; also KT-GOLD RMF).
+
+Income / fixed income / alternatives
+
+KT-BOND — KTAM World Bond Fund (also KT-BOND RMF). Ktam
+KT-GCINCOME-A/-R, KT-DHINCOME-A, KT-GEQ-A — global income / diversified income / global equity income style funds. Siamchart
+KT-CSBOND-A — credit/corporate bond.
+KTAF30M1 / KTAF30M2 — Asian Fixed Income term funds. Ktam
+KTPCRED-UI / KTPCREDH-UI, KT-SUPPLY-UI — US Private Credit and Supply Chain Finance funds, not for retail investors. Ktam
+
+Domestic equity / mixed / property-infra
+
+KTEF / KTEF-RMF — Krung Thai Smart Equity (Thai equity). Ktam
+KTMUNG / KTMUNG-RMF — Krung Thai Mung Kung. Ktam
+KT-FLEX, KT-G90 — flexible / capital-oriented mixed funds. Siamchart
+KT-PIF / KT-PIF RMF — Property and Infrastructure Flexible. Ktam
+
+ESG / ThaiESG
+
+KT-ESG-A / KT-ESG RMF — Krungthai "Korkarndee" (ก่อการดี) ESG; plus the newer ThaiESG / Thai ESGX vehicles. Ktam
+
+ETFs (SET trackers, listed)
+
+EBANK (SET Banking ETF Tracker), ENY (SET Energy ETF Tracker), GLD (gold ETF), and a CSI 300 China Tracker. SiamchartSiamchart
+
+KTWC "World Class" series
+
+KTWC-MODERATE (and other risk tiers) — Krungthai World Class fund-of-funds portfolios, sold as ready-made allocations (KTWC-MODERATE RMF exists). Kt

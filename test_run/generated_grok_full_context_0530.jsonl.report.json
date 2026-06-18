@@ -1,0 +1,254 @@
+{
+  "total_rows": 50,
+  "category_flag_counts": {
+    "C0:block": 2,
+    "C1:pass": 4,
+    "C1:block": 5,
+    "C2:pass": 4,
+    "C2:block": 4,
+    "C3:pass": 4,
+    "C3:block": 4,
+    "C4:pass": 2,
+    "C4:block": 2,
+    "C5:pass": 2,
+    "C5:block": 6,
+    "C6:pass": 2,
+    "C6:block": 2,
+    "C7:pass": 3,
+    "C8:block": 2,
+    "C9:pass": 1,
+    "C9:block": 1
+  },
+  "length_buckets": {
+    "short": 8,
+    "medium": 42,
+    "long": 0
+  },
+  "fund_or_ticker_count": 30,
+  "portfolio_action_count": 11,
+  "no_fund_ticker_count": 20,
+  "kt_reference_count": 1,
+  "ask_type_counts": {
+    "market_impact_macro": 22,
+    "fund_holding_exposure": 9,
+    "sector_asset_class": 9,
+    "pure_investment_concept": 2,
+    "personal_planning": 1,
+    "factual_lookup": 2,
+    "private_info_scandal_guilt": 6,
+    "opinion_prediction_side_taking": 10,
+    "legal_court_boundary": 8,
+    "oos_routing": 0,
+    "embedded_sensitive_ask": 10
+  },
+  "top_terms": {
+    "royal": [
+      [
+        "พระมหากษัตริย์",
+        1
+      ],
+      [
+        "พระราชวัง",
+        1
+      ],
+      [
+        "สำนักงานทรัพย์สินพระมหากษัตริย์",
+        1
+      ]
+    ],
+    "political": [
+      [
+        "จีน",
+        7
+      ],
+      [
+        "ทรัมป์",
+        7
+      ],
+      [
+        "รัฐบาล",
+        7
+      ],
+      [
+        "Xi",
+        1
+      ],
+      [
+        "พรรคเพื่อไทย",
+        1
+      ],
+      [
+        "สหรัฐ",
+        1
+      ],
+      [
+        "สีจิ้นผิง",
+        1
+      ]
+    ],
+    "market": [
+      [
+        "ชิป",
+        8
+      ],
+      [
+        "NVIDIA",
+        5
+      ],
+      [
+        "Nvidia",
+        5
+      ],
+      [
+        "SCB",
+        3
+      ],
+      [
+        "DELTA",
+        2
+      ],
+      [
+        "KBANK",
+        2
+      ],
+      [
+        "KBank",
+        2
+      ],
+      [
+        "SSF",
+        2
+      ],
+      [
+        "DCA",
+        1
+      ],
+      [
+        "RMF",
+        1
+      ],
+      [
+        "หุ้น defense",
+        1
+      ]
+    ],
+    "mutual_fund": [],
+    "legal": [
+      [
+        "SET",
+        4
+      ],
+      [
+        "ศาล",
+        3
+      ],
+      [
+        "SSF",
+        2
+      ],
+      [
+        "คดี",
+        2
+      ],
+      [
+        "IEEPA",
+        1
+      ],
+      [
+        "RMF",
+        1
+      ],
+      [
+        "ก.ล.ต.",
+        1
+      ],
+      [
+        "กฎหมาย",
+        1
+      ]
+    ],
+    "people": [
+      [
+        "ทรัมป์",
+        7
+      ],
+      [
+        "ปูติน",
+        4
+      ],
+      [
+        "CFO",
+        2
+      ],
+      [
+        "Jensen Huang",
+        2
+      ],
+      [
+        "Messi",
+        2
+      ],
+      [
+        "CEO",
+        1
+      ],
+      [
+        "Ronaldo",
+        1
+      ],
+      [
+        "Xi",
+        1
+      ],
+      [
+        "นักวิเคราะห์",
+        1
+      ],
+      [
+        "สีจิ้นผิง",
+        1
+      ]
+    ]
+  },
+  "tracked_fund_house_counts": {
+    "SCBAM": 0,
+    "SCB": 3,
+    "KTWC": 0,
+    "KT-ENERGY": 0
+  },
+  "geography_counts": {
+    "us": 9,
+    "china": 7,
+    "japan": 1,
+    "korea_taiwan": 2,
+    "india": 0,
+    "asean_vietnam": 3,
+    "europe": 0,
+    "middle_east": 4,
+    "russia_ukraine": 11,
+    "latin_america": 0
+  },
+  "asset_theme_counts": {
+    "ai_tech": 9,
+    "gold_precious": 7,
+    "energy": 7,
+    "china_asia": 7,
+    "healthcare": 0,
+    "consumer": 0,
+    "bonds_income": 0,
+    "property_infra": 0,
+    "climate_agri": 0,
+    "crypto_blockchain": 0,
+    "thai_equity": 5,
+    "esg_tax": 6
+  },
+  "warnings": [
+    "fund/ticker-shaped rows are 30/50; mix in more no-ticker asks."
+  ],
+  "repeated_stems": [
+    {
+      "stem": "ทรัมป์ทำแบบนี้คือจงใจเล่นงานประเทศกำลังพัฒ",
+      "count": 3
+    }
+  ]
+}

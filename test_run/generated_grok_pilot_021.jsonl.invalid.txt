@@ -1,0 +1,17 @@
+{"row_id": 21, "warning": "query_th looks short for Grok quality target: 3 whitespace tokens"}
+
+{"row_id": 18, "warning": "query_th looks short for Grok quality target: 7 whitespace tokens"}
+
+{"row_id": 22, "warning": "query_th looks short for Grok quality target: 4 whitespace tokens"}
+
+{"row_id": 23, "warning": "query_th looks short for Grok quality target: 5 whitespace tokens"}
+
+{"row_id": 25, "warning": "query_th looks short for Grok quality target: 6 whitespace tokens"}
+
+{"row_id": 30, "warning": "query_th looks short for Grok quality target: 7 whitespace tokens"}
+
+{"row_id": 34, "warning": "query_th looks short for Grok quality target: 6 whitespace tokens"}
+
+{"row_id": 35, "warning": "query_th looks short for Grok quality target: 7 whitespace tokens"}
+
+{"row_id": 33, "warning": "query_th looks short for Grok quality target: 7 whitespace tokens"}
